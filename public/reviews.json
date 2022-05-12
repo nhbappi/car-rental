@@ -1,0 +1,67 @@
+[
+  {
+      "id" : 1,
+      "name": "jesifer",
+      "image": "https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/user.png",
+      "review" : "This ia a great experience in Car Rental. Here peoples are so helpfull. There have some beautifull Car. I love here some luxurious car.",
+      "rating": 4.5
+  },
+  {
+      "id" : 2,
+      "name": "Alister",
+      "image": "https://autozone.templines.org/elementor/rental/wp-content/uploads/2022/01/shutterstock-297639647.png",
+      "review" : "I had a great memory with them. I was going Canada with using there luxurious car. They are so honest. Day by day there make us happy",
+      "rating": 4.6
+  },
+  {
+      "id" : 3,
+      "name": "Jordan",
+      "image": "https://kidzartworx.com.au/wp-content/uploads/2017/01/circle-man.png",
+      "review" : "Car Rental is place where I found any kind of cars for rent. I alwayz come here and rent many cars. They have some rich car. And there behaveor so great.",
+      "rating": 4.9
+  },
+  {
+      "id" : 4,
+      "name": "Prince",
+      "image": "https://www.vhv.rs/dpng/d/551-5511364_circle-profile-man-hd-png-download.png",
+      "review" : "Me and my family had a trip in mongolia. I told them please give e to make this trip. They gave me BMW. Belive me they have any kind of rich car.",
+      "rating": 4.4
+  },
+  {
+      "id" : 5,
+      "name": "Kingsman",
+      "image": "https://www.dragonsourcing.com/wp-content/uploads/2017/01/portrait-circle.png",
+      "review" : "This is best car shop i have ever seen. Here rent car are so great. I am fully satisfied from it. My experience is so good",
+      "rating": 4.5
+  },
+  {
+      "id" : 6,
+      "name": "Harbart",
+      "image": "https://tricky-photoshop.com/wp-content/uploads/2017/08/final-1.png",
+      "review" : "Booked a yacht during our golf trip to Dubai.Very professional service of the captain and his crew on board. Special thanks to dev who looked after us.",
+      "rating": 4.8
+  },
+  {
+      "id" : 7,
+      "name": "Anjelina",
+      "image": "https://lovetobeinthekitchen.com/wp-content/uploads/2015/04/Emily-Circle-Profile-300x300.png",
+      "review" : "I was looking to get some adventure and had a blast with my mate. So glad we went with Dubai Yacht Booking. As in preceptor They are very knowledgable.",
+      "rating": 4.9
+  },
+  {
+      "id" : 8,
+      "name": "jesiban",
+      "image": "https://earthlette.com.au/wp-content/uploads/2016/10/Jem-final-profile-pic-circle2-1-1024x1018.png",
+      "review" : "Embark on an unforgettable voyage on a luxury private yacht with Dubai Yacht Booking, the leading yacht charter company in the UAE.",
+      "rating": 5.0
+  },
+  {
+      "id" : 9,
+      "name": "Asifer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeeaCTTyrL9HZdW2bmrlr-edN1fFhNxjLyfmyMUdoP34H8HPocRASP6rWVVo_wdwnebU&usqp=CAU",
+      "review" : "I was looking for a BMW and Dale helped me in finding a fairly new car. We were happy with the vehicle and agent called to confirm to got the car on time.",
+      "rating": 4.9
+  }
+
+
+]

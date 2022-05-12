@@ -1,0 +1,23 @@
+.nav-color{
+    text-decoration: none;
+    color: rgb(26, 26, 27);
+    font-size: 17px;
+    font-weight: 600;
+}
+.nav-color:hover{
+     
+     color: crimson;
+     
+}
+.nav-bar i:hover{
+     
+     color: crimson;
+}
+
+.nav-bar i{
+    color: rgb(73, 65, 65);
+}
+/* .nav-bar i:hover{
+    font-size: 21px;
+    color: rgb(165, 77, 42);
+} */
