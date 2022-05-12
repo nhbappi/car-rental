@@ -2,7 +2,6 @@ Welcome to Car Rental
 
 #Our Live Site: https://strong-haupia-8cc16d.netlify.app/home
 
-#Our Code link: https://github.com/programming-hero-web-course-4/product-analysis-website-nhbappi
 
 # Our strategy
 
